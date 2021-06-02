@@ -70,3 +70,15 @@ And navigate to http://127.0.0.1:8000/
 You will get API root urls 
 
 The end of PART 1
+
+
+API LIST
+---------------------
+
+```sh
+    "api/v1/policy/age_band": "http://localhost:8008/api/v1/policy/age_band/",
+    "api/v1/policy/type": "http://localhost:8008/api/v1/policy/type/",
+    "api/v1/create_customer": "http://localhost:8008/api/v1/create_customer/",
+    "api/v1/policy/details": "http://localhost:8008/api/v1/policy/details/",
+    "api/v1/policy/quote": "http://localhost:8008/api/v1/policy/quote/"
+```
